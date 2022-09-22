@@ -424,7 +424,7 @@ body {
 }
 .join {
   color: var(--primary-white);
-  margin-top: 12px;
+  padding-top: 12px;
 }
 .footer-text {
   font-weight: 700;
